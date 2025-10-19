@@ -15,7 +15,7 @@ import cafateo4 from "../assets/cafateo4.png";
 import cafateo5 from "../assets/cafateo5.png";
 
 import Project from "../assets/Project.png";
-import SHEREST from "../assets/SHEREST.jpg";
+import SHEREST from "../assets/sherest.jpg";
 import { FaArrowLeft } from "react-icons/fa";
 import { BsGithub } from "react-icons/bs";
 
