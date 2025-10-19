@@ -1,9 +1,7 @@
 import React from 'react'
-import { FaFacebookSquare } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
 import { IoLogoGithub } from "react-icons/io";
-import { SiMedium } from "react-icons/si";
 import RevealOnScroll from '../UI/RevealOnScroll';
 
 export default function Footer() {

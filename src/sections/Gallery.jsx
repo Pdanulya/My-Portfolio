@@ -28,7 +28,7 @@ export default function Gallery() {
             </h2>
 
             <div
-              className='grid grid-cols-1 sm:grid-cols-4 gap-6 justify-items-center'
+              className='grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4 sm:gap-6 justify-items-center'
             >
                 <img src= {AGM25} alt="AGM25" className='rounded-lg w-70 h-48 object-cover border-2 border-white/10 hover:border-teal-400'/>
                 <img src={CAREERFAIR} alt="CAREERFAIR" className='rounded-lg w-70 h-48 object-cover border-2 border-white/10 hover:border-teal-400'/>
@@ -39,7 +39,6 @@ export default function Gallery() {
                 <img src={MERCON} alt="MERCON" className='rounded-lg w-70 h-50 object-cover border-2 border-white/10 hover:border-teal-400'/>
                 <img src={MF} alt="MF" className='rounded-lg w-70 h-50 object-cover border-2 border-white/10 hover:border-teal-400'/>
                 <img src={PLAQUE} alt="PLAQUE" className='rounded-lg w-70 h-100 object-cover border-2 border-white/10 hover:border-teal-400'/>
-                {/* <img src={AGM} alt="AGM" className='rounded-lg w-70 h-90 object-cover border-2 border-white/10 hover:border-teal-400'/> */}
                 <img src={AGM2025} alt="AGM" className='rounded-lg w-70 h-100 object-cover border-2 border-white/10 hover:border-teal-400'/>
             </div>
         </div>

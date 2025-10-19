@@ -24,7 +24,7 @@ export default function Home() {
             text-transparent leading-right'>
                I am Poojani Danulya,
         </h1>
-        <p className='text-gray-300 text-xl mb-12 max-w-2xl mx-auto'>
+        <p className='text-gray-300  mb-12 sm:text-lg md:text-xl max-w-2xl mx-auto'>
           An undergraduate at the Faculty of Information Technology, University of Moratuwa, with a strong interest in full-stack web development. 
           I specialize in developing end-to-end web applications, integrating responsive user interfaces with reliable backend systems.
         </p>

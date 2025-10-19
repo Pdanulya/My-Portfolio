@@ -10,6 +10,19 @@ html, body{
   scroll-behavior:smooth;
 }
 
+/* Apply consistent background & text color for autofill (Chrome & Safari) */
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+textarea:-webkit-autofill,
+textarea:-webkit-autofill:hover,
+textarea:-webkit-autofill:focus {
+  -webkit-box-shadow: 0 0 0px 1000px rgba(31, 41, 55, 1) inset !important; /* bg-gray-800-ish */
+  -webkit-text-fill-color: #ffffff !important; /* white text */
+}
+
+
+
 @layer utilities{
   @keyframes loading {
     0% {
