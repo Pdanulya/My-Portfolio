@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 import healthapp from '../assets/healthapp.png';
 import coffeshop from '../assets/coffeshop.png';
 import Project from '../assets/Project.png';
-import SHEREST from '../assets/SHEREST.jpg';
+import SHEREST from '../assets/sherest.jpg';
 
 import RevealOnScroll from '../UI/RevealOnScroll';
 import { FaChevronCircleRight } from "react-icons/fa";
