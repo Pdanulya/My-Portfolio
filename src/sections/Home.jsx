@@ -10,16 +10,16 @@ export default function Home() {
       className='min-h-screen flex flex-col justify-center items-center
       lg:flex-row-reverse gap-9 lg:gap-15'
     >
-        <div className='text-centerz-10 px-4'>
+        <div className='text-center z-10 px-4'>
             <img 
-                className='w-[300px] border-0 mt-30 rounded-full shadow-lg shadow-gray-500/70
+                className='w-70 sm:w-56 md:w-64 lg:w-72 xl:w-80 border-0 mt-30 rounded-full shadow-lg shadow-gray-500/70
                 lg:m-0 lg:max-w-[250] object-cover object-bottom hover:translate-y-1 transition-all' 
                 src={profileImg} 
                 alt='Profile Image' 
             />
         </div>
         <div className='text-center font-mono z-10 mt-20 px-4'>
-            <h1 className='text-4xl md:text-5xl lg:text-6xl lg:max-w-w[500px] font-semibold
+            <h1 className='text-4xl py-1 md:text-5xl lg:text-6xl lg:max-w-w[500px] font-semibold
             mb-8 px-1 bg-gradient-to-r from-teal-400 via-blue-500 to-indigo-600 bg-clip-text 
             text-transparent leading-right'>
                I am Poojani Danulya,
