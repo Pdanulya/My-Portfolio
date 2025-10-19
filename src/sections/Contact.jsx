@@ -42,8 +42,8 @@ export const Contact = () => {
             />
             <button 
               type="submit"
-              className="w-full bg-gradient-to-r from-teal-500 to-indigo-600 px-6 py-3 rounded font-medium hover:shadow-lg transition"
-            >
+              className="w-full bg-gradient-to-r from-teal-500 to-indigo-600 px-6 py-3 rounded cursor-pointer font-medium hover:shadow-[0_0_15px_rgba(59,130,246,0.4)] transition"
+            > 
               Submit
             </button>
           </form>
