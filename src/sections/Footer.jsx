@@ -41,13 +41,7 @@ export default function Footer() {
                     >
                       <IoLogoGithub />
                     </a>
-                    {/* <a
-                      href="https://medium.com/@poojanidanulya"
-                      className=' p-2 rounded text-4xl  transition-all  text-white hover:text-gray-400'
-                      target='_blank'
-                    >
-                      <SiMedium />
-                    </a> */}
+                   
                     <a
                       href="mailto:poojanidanulya@gmail.com"
                       className=' p-2 rounded text-4xl  transition-all  text-white hover:text-gray-400'
@@ -61,7 +55,7 @@ export default function Footer() {
             </div>
         </div>
           <p
-            className='text-center text-gray-500 font-mono text-xl my-7'
+            className='text-center text-gray-500 font-mono text-xl my-7 mx-3'
           >
             @ 2025 Poojani Danulya. All rights reserved.
           </p>

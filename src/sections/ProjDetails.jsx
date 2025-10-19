@@ -81,7 +81,7 @@ export default function ProjDetails() {
   }
 
   return (
-    <section className="min-h-screen pt-40 flex flex-col items-start pl-30 justify-center p-8 font-mono text-white">
+    <section className="min-h-screen pt-40 flex flex-col items-start px-20 justify-center p-8 font-mono text-white">
       <Link
         to="/"
         className="flex items-center gap-2 underline text-teal-400 hover:text-indigo-500 mb-6"
@@ -106,7 +106,7 @@ export default function ProjDetails() {
             key={idx}
             src={img}
             alt={`${project.name} screenshot ${idx + 1}`}
-            className="w-100 h-50 rounded-xl shadow-lg"
+            className="w-100 h-48 rounded-xl shadow-lg"
           />
         ))
       : (

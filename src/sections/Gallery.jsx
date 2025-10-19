@@ -17,7 +17,7 @@ export default function Gallery() {
   return (
     <section
       id="gallery"
-      className="h-[1200px] font-mono flex items-center justify-center">
+      className="pt-30 font-mono flex items-center justify-center">
         <RevealOnScroll>
         <div className="max-w-6xl mx-auto px-4">
             <h2

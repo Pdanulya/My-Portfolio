@@ -5,7 +5,7 @@ export default function About() {
   return (
     <section
       id="about"
-      className='h-[600px] pt-60 font-mono flex items-center justify-center'
+      className='pt-30 font-mono flex items-center justify-center'
     >
       <RevealOnScroll>
       <div className='max-w-6xl mx-auto px-4'>

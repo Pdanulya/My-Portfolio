@@ -7,7 +7,7 @@ export const Contact = () => {
           className='h-[600px] pt-40 flex font-mono items-center justify-center'
         >
             <RevealOnScroll>
-            <div className="px-4 w-150">
+            <div className=" px-20 w-160">
                 <h2 className='max-w-3xl text-5xl font-semibold mb-12 bg-gradient-to-r from-teal-500 to-indigo-600
                     bg-clip-text text-transparent text-center'>
                     Get In Touch

@@ -20,7 +20,7 @@ export default function Home() {
         </div>
         <div className='text-center font-mono z-10 mt-20 px-4'>
             <h1 className='text-4xl md:text-5xl lg:text-6xl lg:max-w-w[500px] font-semibold
-            mb-8 px-1 py-1 bg-gradient-to-r from-teal-400 via-blue-500 to-indigo-600 bg-clip-text 
+            mb-8 px-1 bg-gradient-to-r from-teal-400 via-blue-500 to-indigo-600 bg-clip-text 
             text-transparent leading-right'>
                I am Poojani Danulya,
         </h1>

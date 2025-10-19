@@ -31,10 +31,10 @@ export default function Blogs() {
   return (
     <section
       id="blogs"
-      className=' pt-40 flex font-mono items-center justify-center'
+      className=' pt-30 flex font-mono items-center justify-center'
     >
         <RevealOnScroll>
-        <div className='max-w-6xl mx-auto px-0'>
+        <div className='max-w-6xl mx-auto px-4'>
             <h2 className='text-5xl font-semibold mb-12 py-1 bg-gradient-to-r from-teal-500 to-indigo-600
             bg-clip-text text-transparent text-center'>
                 My Blogs

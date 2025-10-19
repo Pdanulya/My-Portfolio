@@ -49,7 +49,7 @@ export default function Projects() {
   return (
     <section 
       id="projects"
-      className='pt-40 flex font-mono items-center justify-center'
+      className='pt-30 flex font-mono items-center justify-center'
     >
         <RevealOnScroll>
         <div className='max-w-6xl mx-auto px-4'>

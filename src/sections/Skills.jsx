@@ -21,7 +21,7 @@ export default function Skills() {
   return (
     <section
       id="skills"
-      className="pt-70 font-mono flex items-center justify-center"
+      className="pt-30 font-mono flex items-center justify-center"
     >
       <RevealOnScroll>
       <div className="max-w-6xl mx-auto px-4 text-center">
