@@ -12,9 +12,14 @@ export default function Skills() {
     "Express",
     "MongoDB",
     "SQL",
+    "PostgreSQL",
     "C Language",
     "Java",
-    "Figma",
+    "Python",
+    "Django",
+    "Computer Vision",
+    "Machine Learning",
+    "Jupyter Notebook",
     "Content Writing"
   ];
 
